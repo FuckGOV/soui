@@ -1,3 +1,7 @@
+# Visual Studio cache files
+ipch
+obj
+
 # Compiled Object files
 *.slo
 *.lo
